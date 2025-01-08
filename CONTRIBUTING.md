@@ -4,13 +4,18 @@ Thank you for your interest in contributing to NestQuest! We value your help in 
 
 ---
 
+Here's the Markdown file for the table:
+
 ## **Table of Contents**
-1. [Getting Started](#getting-started)
-2. [Development Workflow](#development-workflow)
-3. [Code Standards](#code-standards)
-4. [Creating a Pull Request](#creating-a-pull-request)
-5. [Reporting Issues](#reporting-issues)
-6. [Contact Us](#contact-us)
+
+| Section | Link |
+| --- | --- |
+| 1. Getting Started | [#getting-started](#getting-started) |
+| 2. Development Workflow | [#development-workflow](#development-workflow) |
+| 3. Code Standards | [#code-standards](#code-standards) |
+| 4. Creating a Pull Request | [#creating-a-pull-request](#creating-a-pull-request) |
+| 5. Reporting Issues | [#reporting-issues](#reporting-issues) |
+| 6. Contact Us | [#contact-us](#contact-us) |
 
 ---
 

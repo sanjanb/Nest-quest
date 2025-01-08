@@ -111,7 +111,7 @@ $ git push origin feature/your-feature-name
 ## **Reporting Issues**
 
 If you encounter a bug or have a feature request, create a new issue by following these steps:
-1. Go to the [Issues Tab](https://github.com/Suvadip-sana/Nest-quest.git).
+1. Go to the [Issues Tab](https://github.com/Suvadip-sana/Nest-quest/issues).
 2. Click "New Issue".
 3. Provide a descriptive title and detailed description of the problem or suggestion.
 
